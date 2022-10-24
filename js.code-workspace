@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\Juego\\js"
+		},
+		{
+			"path": "..\\Juego\\css"
+		},
+		{
+			"path": "..\\..\\..\\..\\wamp64\\www\\programacion1\\ejemplo_symfony"
+		},
+		{
+			"path": "..\\..\\..\\..\\wamp64\\www\\MVC-BD"
+		}
+	],
+	"settings": {}
+}
